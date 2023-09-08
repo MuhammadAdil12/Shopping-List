@@ -1,5 +1,3 @@
 # Shopping List
 
-
-
-<img src="images/screen.png" width="400">
+https://muhammadadil12.github.io/Shopping-List/
